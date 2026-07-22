@@ -41,6 +41,8 @@ Industries store thousands of SOPs, engineering manuals, maintenance reports, in
 - **AI & RAG**: Google Gemini API, Cosine Similarity Vector Embedding Index, Anti-Hallucination Grounding Prompting.
 - **OCR & Parser**: Tesseract.js OCR, PDF Parser, Multer.
 - **Deployment**: Vercel (Frontend), Render / Node (Backend), MongoDB Atlas (Database).
+- Demo video : https://drive.google.com/file/d/10IqGB4xm1b9ZXDWP0MGV9GrZ0Q3bGCIl/view?usp=sharing
+- Live link : https://indusmind-ai-ai-powered-industrial-omega.vercel.app/login
 
 ---
 
